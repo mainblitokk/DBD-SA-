@@ -1,6 +1,6 @@
 {
 	"Name": "dbdr sa",
-	"Version": 1770831799,
+	"Version": 1770835937,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "-A perk \"sabotador\" deve apenas ser usada para ver ganchos brancos do assassino, nao deve ser usada para sabotar\n",
 	"Tiers": [
@@ -79,12 +79,14 @@
 			],
 			"KillerIndvPerkBans": [
 				"131",
+				"132",
 				"133",
 				"134",
 				"136",
 				"245",
 				"138",
 				"141",
+				"146",
 				"147",
 				"149",
 				"150",
@@ -94,7 +96,9 @@
 				"163",
 				"244",
 				"168",
+				"169",
 				"171",
+				"172",
 				"173",
 				"174",
 				"175",
@@ -108,6 +112,9 @@
 				"188",
 				"256",
 				"195",
+				"196",
+				"198",
+				"161",
 				"204",
 				"284",
 				"209",
@@ -115,11 +122,17 @@
 				"212",
 				"216",
 				"218",
+				"219",
 				"298",
 				"221",
 				"223",
+				"225",
+				"226",
+				"234",
 				"235",
+				"236",
 				"238",
+				"249",
 				"242"
 			],
 			"SurvivorComboPerkBans": [
@@ -299,6 +312,7 @@
 				"265",
 				"256",
 				"195",
+				"161",
 				"204",
 				"205",
 				"284",
@@ -311,6 +325,7 @@
 				"227",
 				"235",
 				"238",
+				"249",
 				"242"
 			],
 			"SurvivorComboPerkBans": [],
@@ -486,6 +501,7 @@
 				"188",
 				"256",
 				"195",
+				"161",
 				"204",
 				"205",
 				"284",
@@ -497,6 +513,7 @@
 				"298",
 				"227",
 				"235",
+				"249",
 				"293",
 				"257",
 				"241",
@@ -656,6 +673,7 @@
 				"188",
 				"256",
 				"195",
+				"161",
 				"204",
 				"205",
 				"284",
@@ -668,6 +686,7 @@
 				"227",
 				"235",
 				"238",
+				"249",
 				"293",
 				"257",
 				"242"
@@ -819,6 +838,7 @@
 				"256",
 				"195",
 				"198",
+				"161",
 				"204",
 				"205",
 				"284",
@@ -831,6 +851,7 @@
 				"227",
 				"235",
 				"238",
+				"249",
 				"293",
 				"257",
 				"241",
@@ -943,6 +964,7 @@
 				"137",
 				"138",
 				"142",
+				"146",
 				"147",
 				"144",
 				"149",
@@ -954,7 +976,9 @@
 				"163",
 				"244",
 				"168",
+				"170",
 				"171",
+				"172",
 				"173",
 				"174",
 				"179",
@@ -974,8 +998,11 @@
 				"265",
 				"188",
 				"189",
+				"191",
+				"192",
 				"256",
 				"195",
+				"196",
 				"198",
 				"151",
 				"204",
@@ -992,6 +1019,7 @@
 				"235",
 				"297",
 				"238",
+				"249",
 				"293",
 				"257",
 				"241",
@@ -1144,9 +1172,11 @@
 				"6"
 			],
 			"BalanceTiers": [
+				0,
 				5
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				5
 			],
 			"AntiFacecampPermitted": false,
@@ -1156,7 +1186,9 @@
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedPerks": [
+				"135"
+			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
@@ -1226,9 +1258,11 @@
 				"16"
 			],
 			"BalanceTiers": [
+				0,
 				5
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				5
 			],
 			"AntiFacecampPermitted": false,
@@ -1296,8 +1330,18 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Shape",
@@ -1773,7 +1817,7 @@
 			"SurvivorBalanceTiers": [
 				3
 			],
-			"AntiFacecampPermitted": true,
+			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -1842,13 +1886,25 @@
 				"8"
 			],
 			"BalanceTiers": [
+				0,
 				5
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"132",
+				"135",
+				"159",
+				"167",
+				"186",
+				"213",
+				"215",
+				"226",
+				"229"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1867,7 +1923,8 @@
 			"ItemWhitelist": [
 				5,
 				0,
-				10
+				10,
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1883,9 +1940,8 @@
 				},
 				"Med-Kit": {
 					"Addons": [
-						0,
-						1,
-						2
+						2,
+						11
 					]
 				},
 				"Toolbox": {
@@ -2398,9 +2454,11 @@
 				"4"
 			],
 			"BalanceTiers": [
+				0,
 				5
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				5
 			],
 			"AntiFacecampPermitted": false,
