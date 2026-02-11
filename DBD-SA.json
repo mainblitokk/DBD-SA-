@@ -1,6 +1,6 @@
 {
 	"Name": "dbdr sa",
-	"Version": 1770839915,
+	"Version": 1770840197,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "-A perk \"sabotador\" deve apenas ser usada para ver ganchos brancos do assassino, nao deve ser usada para sabotar\n",
 	"Tiers": [
@@ -912,7 +912,6 @@
 				"295",
 				"77",
 				"79",
-				"80",
 				"81",
 				"82",
 				"83",
@@ -964,6 +963,7 @@
 				"163",
 				"244",
 				"168",
+				"170",
 				"171",
 				"173",
 				"174",
@@ -999,6 +999,7 @@
 				"220",
 				"221",
 				"225",
+				"227",
 				"235",
 				"297",
 				"238",
@@ -1162,7 +1163,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"80"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1858,12 +1861,15 @@
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"170"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"38",
 				"58",
-				"63"
+				"63",
+				"80"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
