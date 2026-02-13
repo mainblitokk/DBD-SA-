@@ -1,6 +1,6 @@
 {
 	"Name": "dbdr sa",
-	"Version": 1770840197,
+	"Version": 1770975946,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "-A perk \"sabotador\" deve apenas ser usada para ver ganchos brancos do assassino, nao deve ser usada para sabotar\n",
 	"Tiers": [
@@ -624,6 +624,7 @@
 				"122",
 				"124",
 				"304",
+				"127",
 				"128",
 				"254",
 				"130"
@@ -1666,15 +1667,17 @@
 				0
 			],
 			"BalanceTiers": [
-				0
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1706,8 +1709,17 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Pig",
