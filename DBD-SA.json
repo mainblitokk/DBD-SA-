@@ -1,6 +1,6 @@
 {
 	"Name": "dbdr sa",
-	"Version": 1770981902,
+	"Version": 1771064308,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "meu codigo de balancemento ficou com ponta solta, se algum boneco tiver sem balanceamento algum favor avisar o mais rapido possivel",
 	"Tiers": [
@@ -845,7 +845,12 @@
 				"241",
 				"242"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"11",
+					"246"
+				]
+			],
 			"KillerComboPerkBans": [
 				[
 					"220",
@@ -1000,6 +1005,7 @@
 				"216",
 				"218",
 				"220",
+				"298",
 				"221",
 				"225",
 				"227",
@@ -1019,6 +1025,10 @@
 				[
 					"38",
 					"80"
+				],
+				[
+					"11",
+					"246"
 				]
 			],
 			"KillerComboPerkBans": []
@@ -1073,7 +1083,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
 			"KillerOfferings": [
 				5
 			]
@@ -1800,7 +1817,7 @@
 			"SurvivorBalanceTiers": [
 				3
 			],
-			"AntiFacecampPermitted": true,
+			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -1880,6 +1897,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"246",
 				"38",
 				"58",
 				"63",
