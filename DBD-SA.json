@@ -1,6 +1,6 @@
 {
 	"Name": "dbdr sa",
-	"Version": 1771238798,
+	"Version": 1771407690,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "patch notes:\n\n-mapas mudados ou novos adicionados como opçao\n-ban second wind pra mt coisa\n-grim embrace all ban",
 	"Tiers": [
@@ -986,6 +986,7 @@
 			],
 			"KillerIndvPerkBans": [
 				"131",
+				"132",
 				"133",
 				"270",
 				"134",
@@ -2889,7 +2890,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"132"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"112"
