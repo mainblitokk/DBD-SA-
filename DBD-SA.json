@@ -1,8 +1,8 @@
 {
 	"Name": "DBDRanked SA",
-	"Version": 1777153011,
+	"Version": 1777325802,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "",
+	"GlobalNotes": "noed ban overall (se aparecer que nao esta banido nao use, no codigo do site esta perk ta banida mas por algum motivo nao ta)",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -117,6 +117,7 @@
 				"174",
 				"175",
 				"299",
+				"177",
 				"291",
 				"178",
 				"183",
@@ -316,7 +317,9 @@
 				"38",
 				"39",
 				"44",
+				"261",
 				"308",
+				"50",
 				"54",
 				"57",
 				"61",
