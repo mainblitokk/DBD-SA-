@@ -1,6 +1,6 @@
 {
 	"Name": "DBD SA",
-	"Version": 1777777636,
+	"Version": 1778174493,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "noed ban overall (se aparecer que nao esta banido nao use, no codigo do site esta perk ta banida mas por algum motivo nao ta) e alguns ajustes de perks em pra certos killers",
 	"Tiers": [
@@ -1575,6 +1575,7 @@
 				"39",
 				"44",
 				"308",
+				"53",
 				"57",
 				"76",
 				"80",
@@ -1770,6 +1771,7 @@
 				"65",
 				"76",
 				"80",
+				"95",
 				"92",
 				"102",
 				"109",
