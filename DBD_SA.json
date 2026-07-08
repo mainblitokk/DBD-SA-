@@ -1,8 +1,8 @@
 {
 	"Name": "DBD SA",
-	"Version": 1778174493,
+	"Version": 1783542483,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "noed ban overall (se aparecer que nao esta banido nao use, no codigo do site esta perk ta banida mas por algum motivo nao ta) e alguns ajustes de perks em pra certos killers",
+	"GlobalNotes": "jason.\n\nalgumas perks pra alguns killers add ou removidas pra ambos os lados (pouquinha coisa)\n\nalguns mapas adds ou removidos (w pinhead em suffo)\n",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -32,6 +32,7 @@
 				"286",
 				"288",
 				"30",
+				"312",
 				"33",
 				"248",
 				"40",
@@ -54,6 +55,7 @@
 				"59",
 				"289",
 				"62",
+				"313",
 				"66",
 				"67",
 				"69",
@@ -96,6 +98,7 @@
 				"304",
 				"128",
 				"254",
+				"314",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -410,7 +413,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"3",
+				"6",
+				"31"
 			],
 			"BalanceTiers": [
 				0
@@ -782,7 +787,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"8",
+				"54"
 			],
 			"BalanceTiers": [
 				0
@@ -2021,7 +2027,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8",
 				"9",
 				"11"
 			],
@@ -2306,9 +2311,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"8",
-				"11"
+				"5"
 			],
 			"BalanceTiers": [
 				0
@@ -2489,8 +2492,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4",
-				"8",
 				"33"
 			],
 			"BalanceTiers": [
@@ -2685,9 +2686,8 @@
 		{
 			"Name": "The Onryo",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"20",
 				"32",
 				"34"
 			],
@@ -3235,9 +3235,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"2",
-				"9",
-				"49"
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -3417,9 +3415,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"43",
-				"8",
-				"47"
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -3520,9 +3516,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"19",
-				"33",
-				"56"
+				"49",
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -3624,7 +3619,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"9",
+				"16"
 			],
 			"BalanceTiers": [
 				0
@@ -3804,9 +3800,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"46",
 				"6",
-				"7"
+				"49"
 			],
 			"BalanceTiers": [
 				0
@@ -4006,9 +4001,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6",
-				"11",
-				"49"
+				"4",
+				"5"
 			],
 			"BalanceTiers": [
 				0
@@ -4167,6 +4161,150 @@
 				},
 				"Flashlight": {
 					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
+		},
+		{
+			"Name": "The Slasher",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				"0",
+				"8"
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [
+				"170",
+				"171",
+				"172",
+				"173",
+				"174",
+				"179",
+				"175",
+				"299",
+				"176",
+				"177",
+				"277",
+				"291",
+				"178",
+				"180",
+				"310",
+				"182",
+				"183",
+				"243",
+				"264",
+				"200",
+				"151"
+			],
+			"KillerComboPerkBans": [
+				[
+					"210",
+					"160"
+				]
+			],
+			"SurvivorIndvPerkBans": [
+				"20",
+				"21",
+				"34",
+				"38",
+				"44",
+				"261",
+				"47",
+				"48",
+				"55",
+				"274",
+				"252",
+				"67",
+				"74",
+				"76",
+				"80",
+				"81",
+				"82",
+				"83",
+				"84",
+				"86",
+				"88",
+				"89",
+				"96",
+				"100",
+				"102",
+				"103",
+				"113",
+				"253",
+				"121",
+				"124",
+				"128",
+				"254",
+				"36",
+				"130"
+			],
+			"SurvivorComboPerkBans": [
+				[
+					"92",
+					"50"
+				]
+			],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				858,
+				857,
+				855,
+				853,
+				856,
+				854,
+				848,
+				851,
+				845,
+				846
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
