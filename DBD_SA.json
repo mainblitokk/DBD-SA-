@@ -1,6 +1,6 @@
 {
 	"Name": "DBD SA",
-	"Version": 1783542483,
+	"Version": 1784220859,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "jason.\n\nalgumas perks pra alguns killers add ou removidas pra ambos os lados (pouquinha coisa)\n\nalguns mapas adds ou removidos (w pinhead em suffo)\n",
 	"Tiers": [
@@ -1075,8 +1075,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8",
-				"19",
+				"0",
 				"33"
 			],
 			"BalanceTiers": [
