@@ -1,8 +1,8 @@
 {
 	"Name": "DBD SA",
-	"Version": 1784220859,
+	"Version": 1784756911,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "jason.\n\nalgumas perks pra alguns killers add ou removidas pra ambos os lados (pouquinha coisa)\n\nalguns mapas adds ou removidos (w pinhead em suffo)\n",
+	"GlobalNotes": "perks pra killers mudadas (spirit, nurse, freddy, blight e ghoul)\n\njason liberado",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -444,6 +444,7 @@
 			"SurvivorIndvPerkBans": [
 				"38",
 				"261",
+				"71",
 				"80",
 				"36"
 			],
@@ -516,8 +517,8 @@
 				"153",
 				"154",
 				"170",
-				"181",
 				"184",
+				"195",
 				"151",
 				"204",
 				"220",
@@ -1086,6 +1087,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"157",
 				"191",
 				"199",
 				"200",
@@ -1388,14 +1390,12 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [
-				"21",
 				"246",
 				"38",
 				"39",
 				"44",
 				"261",
 				"308",
-				"57",
 				"58",
 				"67",
 				"80",
@@ -1424,7 +1424,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6
+				6,
+				10
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1434,7 +1435,10 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						8,
+						11
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2125,7 +2129,6 @@
 			"IsDisabled": false,
 			"Map": [
 				"4",
-				"6",
 				"31"
 			],
 			"BalanceTiers": [
@@ -2141,7 +2144,6 @@
 				"154",
 				"170",
 				"172",
-				"181",
 				"184",
 				"151",
 				"204",
@@ -2154,10 +2156,13 @@
 					"160"
 				]
 			],
-			"SurvivorIndvPerkBans": [
-				"80"
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"38",
+					"80"
+				]
 			],
-			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -3812,8 +3817,7 @@
 			"KillerIndvPerkBans": [
 				"170",
 				"200",
-				"151",
-				"220"
+				"151"
 			],
 			"KillerComboPerkBans": [
 				[
