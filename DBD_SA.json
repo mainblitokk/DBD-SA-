@@ -1,6 +1,6 @@
 {
 	"Name": "DBD SA",
-	"Version": 1785621616,
+	"Version": 1786878448,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "perks pra killers mudadas (spirit, nurse, freddy, blight e ghoul)\n\njason liberado",
 	"Tiers": [
@@ -187,6 +187,10 @@
 				[
 					"27",
 					"246"
+				],
+				[
+					"78",
+					"107"
 				]
 			],
 			"KillerComboPerkBans": [
